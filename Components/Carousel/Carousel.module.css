@@ -1,0 +1,53 @@
+.Content{
+position: absolute;
+width: 1448px;
+height: 695px;
+left: 0px;
+top: 66px;
+background: linear-gradient(180deg, #2861AE 0%, rgba(84, 129, 190, 0.796875) 7.81%, rgba(173, 195, 224, 0.38268) 28.65%, rgba(255, 255, 255, 0) 100%);
+}
+.Image_1{
+position: absolute;
+width: 583px;
+height: 447px;
+left: 650px;
+top: 98px;
+/* position: absolute;
+bottom: 2.68%;
+height: 414.1331481933594px;
+width: 539.6887817382812px;
+top: 20.90802001953125px;
+border-radius: 0px; */
+
+}
+
+.Text{
+position: absolute;
+width: 404px;
+height: 336px;
+left: 250px;
+top: 140px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 60px;
+color: #2861AE;
+display: inline;
+}
+.Prev_icon{
+position: absolute;
+width: 70px;
+height: 70px;
+left: 150px;
+top: 315px;
+background: #B4D4F9;
+}
+.Next_icon{
+ position: absolute;
+width: 70px;
+height: 70px;
+left: 1268px;
+top: 315px;
+background: #B4D4F9;
+}
